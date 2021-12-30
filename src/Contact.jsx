@@ -58,7 +58,7 @@ function Contact() {
             
             <h2 className="py-2" > <GitHubIcon fontSize="large"/><a href="https://github.com/Tushar0744" target="_blank"> GitHub </a></h2>
             
-            <h2 className="py-2"> <LanguageIcon fontSize="large"/><a href="https://tushar0744.github.io/" target="_blank"> Portfolio </a></h2>
+            <h2 className="py-2"> <LanguageIcon fontSize="large"/><a href="http://localhost:3000/contact" target="_blank"> Portfolio </a></h2>
           </div>
 
           
